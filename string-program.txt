@@ -1,1 +1,5 @@
-This is string program yyghghfgf
+This is string program 
+String str1 = "Hello";
+String str2 = "World";
+String result = str1 + " " + str2;
+System.out.println(result);
